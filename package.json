@@ -240,7 +240,7 @@
     ]
   },
   "engines": {
-    "node": ">=18.20.0"
+    "node": ">=18.20.0 <21"
   },
   "prettier": {
     "singleQuote": true,
